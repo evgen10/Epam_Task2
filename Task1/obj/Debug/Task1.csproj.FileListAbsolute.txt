@@ -1,0 +1,6 @@
+D:\Tasks\Code\Epam_Task2\Task1\bin\Debug\Task1.exe.config
+D:\Tasks\Code\Epam_Task2\Task1\bin\Debug\Task1.exe
+D:\Tasks\Code\Epam_Task2\Task1\bin\Debug\Task1.pdb
+D:\Tasks\Code\Epam_Task2\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\Tasks\Code\Epam_Task2\Task1\obj\Debug\Task1.exe
+D:\Tasks\Code\Epam_Task2\Task1\obj\Debug\Task1.pdb
