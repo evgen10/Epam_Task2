@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Task2Library;
+
 
 namespace Task1
 {
@@ -18,17 +20,17 @@ namespace Task1
             {
 
                 try
-                {                   
+                {
 
                     EnterString();
 
-                    StringSeparator stringSeparator = new StringSeparator();               
+                    StringSeparator stringSeparator = new StringSeparator();
 
                     Console.WriteLine(@"The first symbol of your string is ""{0}"".  ", stringSeparator.GetFirstSymbol(enteredString));
 
 
                 }
-                catch (Exception e)
+                catch (ArgumentNullException e)
                 {
                     PrintErrorMessage(e.Message);
                 }

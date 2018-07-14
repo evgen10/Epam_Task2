@@ -1,0 +1,16 @@
+﻿<Window x:Class="ParserWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ParserWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="234.5" Width="313.5">
+    <Grid>
+        <Button x:Name="parseButton" Content="Parse" HorizontalAlignment="Left" Margin="102,142,0,0" VerticalAlignment="Top" Click="OnButtonClick" Width="76"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="102" Margin="13,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="278"/>
+        <Label x:Name="numberLabel" Content=""  HorizontalAlignment="Left" Margin="102,167,0,0" VerticalAlignment="Top" Height="26" Width="84"/>
+        <Label Content="Enter text to parse: " HorizontalAlignment="Left" Margin="13,4,0,0" VerticalAlignment="Top" Width="117"/>
+
+    </Grid>
+</Window>

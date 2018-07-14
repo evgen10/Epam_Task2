@@ -13,7 +13,7 @@ namespace Task1
 
             if (sourceString == string.Empty)
             {
-                throw new Exception("User entered an empty string!");
+                throw new ArgumentNullException("User entered an empty string!");
             }
 
             return sourceString[0];

@@ -4,3 +4,11 @@ D:\Tasks\Code\Epam_Task2\Task1\bin\Debug\Task1.pdb
 D:\Tasks\Code\Epam_Task2\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 D:\Tasks\Code\Epam_Task2\Task1\obj\Debug\Task1.exe
 D:\Tasks\Code\Epam_Task2\Task1\obj\Debug\Task1.pdb
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\bin\Debug\Task1.exe.config
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\bin\Debug\Task1.exe
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\bin\Debug\Task1.pdb
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\obj\Debug\Task1.exe
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\obj\Debug\Task1.pdb
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\bin\Debug\Task2Library.dll
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\Task1\bin\Debug\Task2Library.pdb

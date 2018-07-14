@@ -1,0 +1,16 @@
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\bin\Debug\ParserWPF.exe.config
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\bin\Debug\ParserWPF.exe
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\bin\Debug\ParserWPF.pdb
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF.csprojResolveAssemblyReference.cache
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\MainWindow.g.cs
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\App.g.cs
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF_MarkupCompile.cache
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF_MarkupCompile.lref
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\MainWindow.baml
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF.g.resources
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF.Properties.Resources.resources
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF.csproj.GenerateResource.cache
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF.exe
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\obj\Debug\ParserWPF.pdb
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\bin\Debug\Task2Library.dll
+C:\Users\iammr\Desktop\TASK2\Epam_Task2\ParserWPF\bin\Debug\Task2Library.pdb
